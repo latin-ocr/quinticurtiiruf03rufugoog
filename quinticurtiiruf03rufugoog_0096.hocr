@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quinticurtiiruf03rufugoog_0096.png"; bbox 0 0 2978 4933; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 540 1417 1038 1474">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 540 1417 1038 1474">
+     <span class='ocr_line' id='line_1_1' title="bbox 540 1417 1038 1474; baseline -0.018 -8"><span class='ocrx_word' id='word_1_1' title='bbox 540 1417 606 1466; x_wconf 86' lang='lat' dir='ltr'><strong><em>Q.</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 631 1419 799 1463; x_wconf 61' lang='grc' dir='ltr'>(Ὂῐιτ.</span> <span class='ocrx_word' id='word_1_3' title='bbox 825 1429 934 1474; x_wconf 74' lang='lat' dir='ltr'><strong><em>pag.</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 959 1418 1038 1460; x_wconf 74' lang='lat'><strong><em>09.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1179 3304 1855 3454">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1179 3304 1855 3454">
+     <span class='ocr_line' id='line_1_2' title="bbox 1263 3304 1766 3364; baseline -0.006 -9"><span class='ocrx_word' id='word_1_5' title='bbox 1263 3304 1766 3364; x_wconf 82' lang='lat' dir='ltr'><strong>ARISTOTELES,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1179 3392 1855 3454; baseline -0.009 -10"><span class='ocrx_word' id='word_1_6' title='bbox 1179 3396 1262 3444; x_wconf 82' lang='lat' dir='ltr'><strong><em>Ex</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1298 3394 1500 3443; x_wconf 72' lang='lat' dir='ltr'><strong><em>Reum-iz·</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1536 3392 1855 3454; x_wconf 75' lang='lat' dir='ltr'><strong><em>Imaginibus.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
